@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "_layouts": {
+      "name": "_layouts",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "assets": {
+      "name": "assets",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "attachments": {
+      "name": "attachments",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "docs": {
+      "name": "docs",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "journal": {
+      "name": "journal",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "2021-08-17": 1,
+        "2021-08-16": 0,
+        "2021-08-18": 2,
+        "2021-08-19": 3
+      }
+    }
+  },
+  "files": {
+    "getting-started": 0,
+    "세법 용어": 1,
+    "inbox": 2,
+    "readme": 3,
+    "todo": 4
+  }
+}
