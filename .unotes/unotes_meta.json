@@ -11,7 +11,14 @@
     "assets": {
       "name": "assets",
       "isOrdered": true,
-      "folders": {},
+      "folders": {
+        "css": {
+          "name": "css",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
       "files": {}
     },
     "attachments": {
@@ -23,7 +30,20 @@
     "docs": {
       "name": "docs",
       "isOrdered": true,
-      "folders": {},
+      "folders": {
+        "features": {
+          "name": "features",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "how-to": {
+          "name": "how-to",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
       "files": {}
     },
     "journal": {
@@ -31,10 +51,10 @@
       "isOrdered": true,
       "folders": {},
       "files": {
-        "2021-08-17": 1,
         "2021-08-16": 0,
-        "2021-08-18": 2,
-        "2021-08-19": 3
+        "2021-08-19": 1,
+        "2021-08-23": 2,
+        "2021-08-25": 3
       }
     }
   },
